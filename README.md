@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vivekraghunathan
 - 👀 I’m interested in re-imagining search.
-- 🌱 I’m currently learning Rust. 
 - 📫 How to reach me ... vivek at neeva dot co / vivek dot raghunathan at gmail dot com
 
 <!---
